@@ -1,0 +1,8 @@
+pyttsx3 
+SpeechRecognition 
+wikipedia 
+keyboard 
+pyowm 
+requests 
+BeautifulSoup4 
+serial
